@@ -6,7 +6,7 @@
   </listeners>
   <test thread-count="5" name="Test">
   	<parameter name="email" value="mumbo_s5@yahoo.com"></parameter>
-  	<parameter name="password" value="Hornet111_1"></parameter>
+  	<parameter name="password" value="aaaa"></parameter>
     <classes>
       <class name="au.com.sudeera.seleniumtest.FacebookTest"/>
     </classes>
